@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Yuanyang Wuu
-  tagline: Student
+  title: Yuanyang Wu
+  tagline: PhDing.
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -22,9 +22,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: WYY97225
+    github:  WYY97225
+    linkedIn: in/WYY97225
     rss: rss
  
 
