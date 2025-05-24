@@ -14,9 +14,9 @@ sass:
   sass_dir: _sass
 
 permalink: /posts/:title/
-texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+texture:u
+  title: Yuanyang Wu
+  tagline: Student. Research
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
