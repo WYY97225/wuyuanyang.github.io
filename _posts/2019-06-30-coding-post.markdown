@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My Post"
+title:  "First day"
 description: Daily post.
-date:   2019-06-30 21:03:36 +0530
+date:   2025-05-24 15:59:00 +0530
 categories: Daily
 ---
-Today task reading writing
+It's the first day of my web
 
 
 
