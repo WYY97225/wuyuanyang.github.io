@@ -4,9 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Hi,this is wuyuanyang.
 show_excerpts: true # set to true to show excerpts on the homepage
-remote_theme: samarsault/texture
-theme: texture
-$ bundle
+base_url: /texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
