@@ -1,5 +1,5 @@
-title: Texture Theme
-author: GitHub User
+title: Yuanyang Wu
+author: Yuanyang Wu
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Hi,this is wuyuanyang.
@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Yuanyang Wu
-  tagline: PhDing.
+  tagline: PhD Candidate in [Health Econ]
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
