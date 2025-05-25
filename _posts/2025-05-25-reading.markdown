@@ -41,7 +41,7 @@ date:   2025-05-25 10:00:00 +0800
 <div class="paper-container">
   <h2 class="paper-title">退休期间夫妻与单身者为何储蓄？家庭异质性及其宏观影响</h2>
   <div class="author-info">
-    JPE-2025-03 | Journal of Political Economy (Accepted)
+    JPE-2025-03 | Journal of Political Economy
   </div>
   
   <div class="abstract">
@@ -60,7 +60,7 @@ date:   2025-05-25 10:00:00 +0800
 <div class="paper-container">
   <h2 class="paper-title">性别歧视对劳动力供给的影响</h2>
   <div class="author-info">
-    Forthcoming | American Economic Review (Under Review)
+    JPE-2025-03 | Journal of Political Economy
   </div>
 
   <div class="abstract">
