@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "JPE-2025-03"
+date:   2025-05-25 12:00:00 +0800
+---
+
+<style>
+.paper-container {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-left: 4px solid #007bff;
+  background: #f8f9fa;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.paper-title {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+.author-info {
+  color: #6c757d;
+  font-size: 0.9em;
+  margin-bottom: 1rem;
+}
+.abstract {
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+.divider {
+  border-top: 1px dashed #dee2e6;
+  margin: 1.5rem 0;
+}
+@media (max-width: 768px) {
+  .paper-container {
+    margin: 1rem 0;
+    padding: 1rem;
+  }
+}
+</style>
+
+<div class="paper-container">
+  <h2 class="paper-title">退休期间夫妻与单身者为何储蓄？家庭异质性及其宏观影响</h2>
+  <div class="author-info">
+    JPE-2025-03 | Journal of Political Economy (Accepted)
+  </div>
+  
+  <div class="abstract">
+    <strong>Abstract:</strong><br>
+    We estimate a model of savings for retired couples and singles who face longevity and medical expense risks and in which couples can leave bequests both when the first spouse dies and when the last spouse dies. We show that saving motives vary by marital status, permanent income, and age. We find that most households save more for medical expenses than for bequests but that richer households and couples, who hold most of the wealth, save more for bequests. As a result, bequest motives are a key determinant of aggregate retirement wealth.
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="abstract">
+    <strong>摘要:</strong><br>
+    我们估计了一个关于退休夫妻与单身者储蓄行为的模型，该模型考虑了寿命不确定性和医疗支出风险，并允许夫妻在配偶先后去世时均可留下遗产。研究表明，储蓄动机因婚姻状况、永久收入和年龄而异。我们发现，大多数家庭储蓄主要用于应对医疗支出，而非遗产留赠；但财富较多的家庭和夫妻则更倾向于为遗产储蓄。因此，遗产动机成为决定总体退休财富水平的关键因素。
+  </div>
+</div>
+
+<div class="paper-container">
+  <h2 class="paper-title">性别歧视对劳动力供给的影响</h2>
+  <div class="author-info">
+    Forthcoming | American Economic Review (Under Review)
+  </div>
+
+  <div class="abstract">
+    <strong>Abstract:</strong><br>
+    We conduct experiments on an online platform to investigate the causal effect of gender discrimination on labor supply decisions. Controlling for the piece-rate wage, we find that workers who face explicit negative gender-discriminatory wage inequality supply substantially less labor compared with workers who face gender-neutral wage inequality. We also examine the effect of positive discrimination, differences between men and women, and the impact of implicit rather than explicit discrimination. We identify decreased work morale as the underlying mechanism. In addition, we provide survey evidence showing that discrimination in the field reduces work morale and labor supply, corroborating our experimental results.
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="abstract">
+    <strong>摘要:</strong><br>
+    我们在一个在线平台上开展实验，以研究性别歧视对劳动力供给决策的因果影响。在控制计件工资的前提下，我们发现，面对明确的负向性别歧视性工资差异的劳动者，其劳动力供给显著低于面对性别中性工资差异的劳动者。我们还考察了正向歧视的影响、男女之间的差异，以及隐性歧视相较于显性歧视的影响。研究识别出工作士气下降是其中的关键机制。此外，我们还提供了来自实地的问卷调查证据，表明现实中的歧视会降低工作士气与劳动力供给，从而印证了实验结果。
+  </div>
+</div>
