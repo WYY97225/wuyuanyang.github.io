@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的日记</title>
+    <style>
+        :root {
+            --text-color: #333;
+            --bg-color: #fafafa;
+            --border-color: #e0e0e0;
+            --accent-color: #64748b;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: var(--bg-color);
+        }
+
+        .entry {
+            margin-bottom: 2.5rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1.5rem;
+        }
+
+        .date {
+            color: var(--accent-color);
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 1rem 0;
+            color: #2d3748;
+        }
+
+        .content {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+        }
+
+        .tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+
+        .tag {
+            background: #f8fafc;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: var(--accent-color);
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background: var(--border-color);
+            margin: 2rem 0;
+        }
+
+        blockquote {
+            border-left: 3px solid var(--accent-color);
+            padding-left: 1rem;
+            color: #4a5568;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <article class="entry">
+        <div class="date">2024年3月15日 · 晴</div>
+        <h1 class="title">春日随想</h1>
+        
+        <div class="content">
+            <p>清晨推开窗，湿润的空气裹挟着泥土的芬芳扑面而来。院子里的樱花树已经缀满花苞，记得去年此时，我们曾在这里...</p>
+            
+            <h2>今日所得</h2>
+            <ul>
+                <li>完成项目进度报告（进度 75%）</li>
+                <li>尝试了新的咖啡冲煮方法</li>
+                <li>读完《XX》第三章（笔记见下方代码块）
+            </ul>
+
+           <pre><code>// 读书笔记（TypeScript示例）
+interface Knowledge {
+  chapter: number;
+  insights: string[];
+  questions: string;
+}
+
+const todayNotes: Knowledge = {
+  chapter: 3,
+  insights: [
+    "认知重构的关键在于...",
+    "系统思维的三个层次..."
+  ],
+  questions: "如何量化思维模型的迁移能力？"
+};
+</code></pre>
+
+            <div class="tags">
+                <span class="tag">#生活记录</span>
+                <span class="tag">#技术学习</span>
+                <span class="tag">#读书笔记</span>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="entry">
+            <div class="date">2024年3月14日 · 多云</div>
+            <h1 class="title">周末徒步</h1>
+            <div class="content">
+                <p>沿着山脊线行走，云层在脚下翻涌，恍惚间仿佛置身云端。途中偶遇的松鼠...</p>
+                
+                <blockquote>
+                    "山间的路，总是要自己走出形状" —— 某位登山者题于休息亭
+                </blockquote>
+            </div>
+        </div>
+    </article>
+</body>
+</html>
