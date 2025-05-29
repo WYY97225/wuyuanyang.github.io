@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+五月的倒数第三天
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -77,56 +77,14 @@
 </head>
 <body>
     <article class="entry">
-        <div class="date">2024年3月15日 · 晴</div>
-        <h1 class="title">春日随想</h1>
+        <div class="date">2025年5月29日 · 晴</div>
+        <h1 class="title">主校区游记</h1>
         
         <div class="content">
-            <p>清晨推开窗，湿润的空气裹挟着泥土的芬芳扑面而来。院子里的樱花树已经缀满花苞，记得去年此时，我们曾在这里...</p>
+            <p>今天一上午又是敲代码，结果还可以，但coauthor觉得有点问题，让我到主校区来</p>
             
             <h2>今日所得</h2>
             <ul>
-                <li>完成项目进度报告（进度 75%）</li>
-                <li>尝试了新的咖啡冲煮方法</li>
-                <li>读完《XX》第三章（笔记见下方代码块）
-            </ul>
-
-           <pre><code>// 读书笔记（TypeScript示例）
-interface Knowledge {
-  chapter: number;
-  insights: string[];
-  questions: string;
-}
-
-const todayNotes: Knowledge = {
-  chapter: 3,
-  insights: [
-    "认知重构的关键在于...",
-    "系统思维的三个层次..."
-  ],
-  questions: "如何量化思维模型的迁移能力？"
-};
-</code></pre>
-
-            <div class="tags">
-                <span class="tag">#生活记录</span>
-                <span class="tag">#技术学习</span>
-                <span class="tag">#读书笔记</span>
-            </div>
-        </div>
-
-        <hr>
-
-        <div class="entry">
-            <div class="date">2024年3月14日 · 多云</div>
-            <h1 class="title">周末徒步</h1>
-            <div class="content">
-                <p>沿着山脊线行走，云层在脚下翻涌，恍惚间仿佛置身云端。途中偶遇的松鼠...</p>
-                
-                <blockquote>
-                    "山间的路，总是要自己走出形状" —— 某位登山者题于休息亭
-                </blockquote>
-            </div>
-        </div>
-    </article>
-</body>
-</html>
+                <li>接触到不同学科的老师</li>
+                <li>吃了百景园宴会厅</li>
+                <li>尝试了绿园自助餐</li>
