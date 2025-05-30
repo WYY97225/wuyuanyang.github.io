@@ -18,12 +18,14 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
+  showPicker: true
+
+  texture:
   navigation:
-    - title: My work
+    - title: My Work
       url: "/my-work"
     - title: Resume
-    url:"/resume"
-  showPicker: true
+      url: "/resume"
   
 
   # generate social links in footer
