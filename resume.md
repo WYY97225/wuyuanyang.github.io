@@ -1,4 +1,14 @@
 ---
+title: "吴远洋 | Yuanyang Wu"
+description: "健康经济学博士生"
+layout: page
+---
+
+# 吴远洋 | Yuanyang Wu
+`PhD Candidate in Health Economics`  
+`📧 wuyuanyang97225@163.com`  
+
+---
 
 # 吴远洋 | Yuanyang Wu
 `PhD Candidate in Health Economics`  
