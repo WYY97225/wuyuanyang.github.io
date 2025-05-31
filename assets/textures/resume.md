@@ -46,6 +46,9 @@ permalink: /resume
 China"
    *Health Economics Review*
 
+4. "人口老龄化、资本收益与生育政策调整"
+   *金融经济学研究*
+
 ### 会议报告
 - 第八届中国健康经济论坛优秀论文
 - 湖北省人口学学术年会优秀论文二等奖
