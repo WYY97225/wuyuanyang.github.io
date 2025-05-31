@@ -36,11 +36,13 @@ permalink: /resume
 ## 📚 发表成果
 
 ### 期刊论文
-1."新冠状病毒肺炎、人口迁移与疫情扩散防控"  
+1. "新冠状病毒肺炎、人口迁移与疫情扩散防控"  
    *中国管理科学*
-2."生育数量对老年人抑郁的影响研究"  
+   
+2. "生育数量对老年人抑郁的影响研究"  
    *人口研究*
-3."Effect of Retirement on Medical Reimbursement Expenses-Evidence from
+   
+3. "Effect of Retirement on Medical Reimbursement Expenses-Evidence from
 China"
    *Health Economics Review*
 
