@@ -41,7 +41,7 @@ date:   2025-06-10 10:00:00 +0800
 <div class="paper-container">
   <h2 class="paper-title">Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China</h2>
   <div class="author-info">
-    JPE-2025-03 | Journal of Political Economy
+  Econometrica
   </div>
   
   <div class="abstract">
