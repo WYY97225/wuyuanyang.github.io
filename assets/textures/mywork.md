@@ -1,3 +1,10 @@
+---
+title: "My Work"
+description: "Work in Progress"
+layout: page
+permalink: /mywork
+---
+
 # 🔬 主要关注的研究方向  
 *应用微观经济理论检验健康、卫生或家庭等领域的经济现象*
 
