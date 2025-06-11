@@ -23,7 +23,7 @@ texture:
   texture:
   navigation:
     - title: My Work
-      url: "/my-work"
+      url: "/mywork"
     - title: Resume
       url: "/resume"
   
