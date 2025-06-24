@@ -1,2 +1,3 @@
-📄 [Beamer下载](https://github.com/.../paper.pdf)  
+之前在学院做的论文撰写分享，谈不上经验，更像是非此即彼的读后感。
+📄 [Beamer下载](_posts/论文撰写分享.pdf)  
 *(点击在新窗口打开)*
