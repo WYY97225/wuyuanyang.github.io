@@ -1,3 +1,11 @@
+---
+title: "Resume"
+description: "CV"
+layout: page
+permalink: /resume
+---
+
+
 # 简历 / CV
 
 **吴远洋 | Yuanyang Wu** `📧 wuyuanyang97225@163.com` | `📍 湖北·武汉`
